@@ -1,0 +1,3 @@
+const arr = ["angel", "miguel", "emil", "arsenio", "jose"];
+const nuevoArr = arr.map((e) => e.length);
+nuevoArr
